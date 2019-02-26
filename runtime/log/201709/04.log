@@ -1,0 +1,491 @@
+[ 2017-09-04T09:41:57+08:00 ] 127.0.0.1 127.0.0.1 GET /admin.html
+[ log ] www.souldefence.com:8001/admin.html [运行时间：0.248015s][吞吐率：4.03req/s] [内存消耗：7,638.66kb] [文件加载：73]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.souldefence.com:8001',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'dnt' => '1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-GB;q=0.6,en;q=0.4,zh-TW;q=0.2',
+  'cookie' => 'PHPSESSID=vj7mrlsu2dm58u3nrmipi4ef70; thinkphp_show_page_trace=0|0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.037002s ]
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\wamp64\www\souldefence\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\souldefence\public/../application/admin\view\index\index.html [ array (
+  0 => 'groups',
+  1 => 'menu',
+  2 => 'info',
+) ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ RUN ] app\admin\widget\Index->menu[ D:\wamp64\www\souldefence\application\admin\widget\Index.php ]
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @app_end [ RunTime:0.063003s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003000s ] mysql:dbname=9d_admin;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `9d_admin_node` [ RunTime:0.023001s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`name`,`group_id`,`title`,`type` FROM `9d_admin_node` WHERE  (  status=1 AND group_id > 0 ) [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `9d_admin_group` [ RunTime:0.008001s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`icon` FROM `9d_admin_group` WHERE  `id` IN (1,2,5,3,4,8,9)  AND `status` = 1 ORDER BY sort asc,id asc [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `9d_admin_user` [ RunTime:0.021001s ]
+[ sql ] [ SQL ] SELECT * FROM `9d_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `9d_web_log_all` [ RunTime:0.024001s ]
+[ sql ] [ SQL ] INSERT INTO `9d_web_log_all` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `create_at`) VALUES (1 , '127.0.0.1' , '本机地址 本机地址  ' , 'Windows 7' , 'Chrome(60.0.3112.113)' , 'http://www.souldefence.com:8001/admin.html' , 'admin' , 'Index' , 'index' , 'GET' , 'a:0:{}' , 1504489317) [ RunTime:0.037002s ]
+
+---------------------------------------------------------------
+[ 2017-09-04T09:41:58+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/welcome.html
+[ log ] www.souldefence.com:8001/admin/index/welcome.html [运行时间：0.050003s][吞吐率：20.00req/s] [内存消耗：7,474.81kb] [文件加载：71]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.souldefence.com:8001',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'dnt' => '1',
+  'referer' => 'http://www.souldefence.com:8001/admin.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-GB;q=0.6,en;q=0.4,zh-TW;q=0.2',
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=vj7mrlsu2dm58u3nrmipi4ef70; thinkphp_show_page_trace=0|0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.004001s ]
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\wamp64\www\souldefence\application\admin\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\souldefence\public/../application/admin\view\index\welcome.html [ array (
+  0 => 'last_login_ip',
+  1 => 'last_login_loc',
+  2 => 'current_login_ip',
+  3 => 'current_login_loc',
+  4 => 'info',
+) ]
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @app_end [ RunTime:0.002000s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=9d_admin;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `9d_admin_user` [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `9d_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `9d_web_log_all` [ RunTime:0.000000s ]
+[ sql ] [ SQL ] INSERT INTO `9d_web_log_all` (`uid` , `ip` , `location` , `os` , `browser` , `url` , `module` , `controller` , `action` , `method` , `data` , `create_at`) VALUES (1 , '127.0.0.1' , '本机地址 本机地址  ' , 'Windows 7' , 'Chrome(60.0.3112.113)' , 'http://www.souldefence.com:8001/admin/index/welcome.html' , 'admin' , 'Index' , 'welcome' , 'GET' , 'a:0:{}' , 1504489318) [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2017-09-04T16:42:49+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：5,384.255961s][吞吐率：0.00req/s] [内存消耗：6,074.00kb] [文件加载：68]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006001s ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-09-04T16:53:33+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：98.580639s][吞吐率：0.01req/s] [内存消耗：7,148.95kb] [文件加载：76]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006001s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=soul_defence;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.002000s ]
+[ sql ] [ SQL ] SELECT * FROM `users` WHERE  `username` = 'lsfajlds' LIMIT 1 [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2017-09-04T16:55:25+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：4.893280s][吞吐率：0.20req/s] [内存消耗：7,148.95kb] [文件加载：76]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.007000s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000000s ] mysql:dbname=soul_defence;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.002001s ]
+[ sql ] [ SQL ] SELECT * FROM `users` WHERE  `username` = 'lsfajlds' LIMIT 1 [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2017-09-04T16:57:30+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：5.048289s][吞吐率：0.20req/s] [内存消耗：7,120.13kb] [文件加载：77]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.007000s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:dbname=soul_defence;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `users` WHERE  `username` = 'lsfajlds' LIMIT 1 [ RunTime:0.001000s ]
+
+---------------------------------------------------------------
+[ 2017-09-04T17:00:11+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：4.565261s][吞吐率：0.22req/s] [内存消耗：7,120.67kb] [文件加载：77]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006000s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010001s ] mysql:dbname=soul_defence;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `users` WHERE  `username` = 'lsfajlds' LIMIT 1 [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2017-09-04T17:05:18+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：4.356250s][吞吐率：0.23req/s] [内存消耗：7,120.67kb] [文件加载：77]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006001s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:dbname=soul_defence;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SELECT * FROM `users` WHERE  `username` = 'lsfajlds' LIMIT 1 [ RunTime:0.000000s ]
+
+---------------------------------------------------------------
+[ 2017-09-04T17:10:17+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：6.045346s][吞吐率：0.17req/s] [内存消耗：6,067.31kb] [文件加载：68]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.007000s ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-09-04T17:46:10+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：73.173185s][吞吐率：0.01req/s] [内存消耗：7,069.49kb] [文件加载：74]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006001s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-09-04T17:47:45+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：37.438141s][吞吐率：0.03req/s] [内存消耗：7,079.02kb] [文件加载：76]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006001s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-09-04T17:53:26+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：14.281817s][吞吐率：0.07req/s] [内存消耗：7,069.26kb] [文件加载：74]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.007000s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-09-04T17:58:00+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：14.452827s][吞吐率：0.07req/s] [内存消耗：7,069.45kb] [文件加载：74]
+[ info ] [ LANG ] D:\wamp64\www\souldefence\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.007000s ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------

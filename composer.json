@@ -1,0 +1,8 @@
+{
+    "require": {
+        "topthink/think-worker": "^1.0",
+        "workerman/gateway-worker-for-win": "^3.0",
+        "workerman/gatewayclient": "^3.0",
+        "evan-li/think-gateway-for-win": "^0.2.1"
+    }
+}

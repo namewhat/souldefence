@@ -1,0 +1,29 @@
+[ 2017-08-31T14:33:33+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：61.400512s][吞吐率：0.02req/s] [内存消耗：6,289.88kb] [文件加载：75]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [64]Cannot redeclare app\admin\model\Users::loginLog()[D:\wamp64\www\9d_admin\application\admin\model\Users.php:147]
+
+---------------------------------------------------------------

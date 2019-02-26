@@ -1,0 +1,142 @@
+[ 2017-08-19T10:55:46+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：94.131384s][吞吐率：0.01req/s] [内存消耗：6,009.09kb] [文件加载：65]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.042003s ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-08-19T16:49:10+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：18.608064s][吞吐率：0.05req/s] [内存消耗：6,013.55kb] [文件加载：65]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.283016s ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-08-19T16:55:38+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：139.057954s][吞吐率：0.01req/s] [内存消耗：6,013.55kb] [文件加载：65]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.007001s ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-08-19T16:55:46+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：4.615264s][吞吐率：0.22req/s] [内存消耗：6,097.62kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------
+[ 2017-08-19T17:01:59+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：4.123236s][吞吐率：0.24req/s] [内存消耗：6,097.61kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.044002s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------

@@ -1,0 +1,290 @@
+[ 2017-08-21T11:07:21+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：0.219013s][吞吐率：4.57req/s] [内存消耗：5,999.03kb] [文件加载：69]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.007000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]Parse error: syntax error, unexpected ')'[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Protocols\JsonNL.php:113]
+
+---------------------------------------------------------------
+[ 2017-08-21T11:09:49+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：107.585154s][吞吐率：0.01req/s] [内存消耗：6,108.48kb] [文件加载：71]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]Fatal error: Using $this when not in object context[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Protocols\JsonNL.php:35]
+
+---------------------------------------------------------------
+[ 2017-08-21T11:31:45+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：0.057004s][吞吐率：17.54req/s] [内存消耗：5,812.55kb] [文件加载：60]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]Parse error: syntax error, unexpected '$connection' (T_VARIABLE)[D:\wamp64\www\9d_admin\application\admin\controller\Worker.php:21]
+
+---------------------------------------------------------------
+[ 2017-08-21T11:32:22+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：4.953283s][吞吐率：0.20req/s] [内存消耗：6,099.83kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------
+[ 2017-08-21T11:46:06+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：798.898869s][吞吐率：0.00req/s] [内存消耗：6,103.42kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006001s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------
+[ 2017-08-21T11:51:19+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：4.132237s][吞吐率：0.24req/s] [内存消耗：6,100.77kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------
+[ 2017-08-21T11:52:46+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：7.090406s][吞吐率：0.14req/s] [内存消耗：6,104.36kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.005000s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------
+[ 2017-08-21T14:34:57+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：5.940340s][吞吐率：0.17req/s] [内存消耗：6,104.35kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.027001s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------
+[ 2017-08-21T14:36:10+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：8.548489s][吞吐率：0.12req/s] [内存消耗：6,104.35kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.006001s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------
+[ 2017-08-21T14:39:10+08:00 ] 0.0.0.0 0.0.0.0 CLI 
+[ log ] cmd:server.php start [运行时间：7.042403s][吞吐率：0.14req/s] [内存消耗：6,100.84kb] [文件加载：72]
+[ info ] [ LANG ] D:\wamp64\www\9d_admin\thinkphp\lang\zh-cn.php
+[ info ] [ BIND ] 'admin/Worker'
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Worker',
+    2 => 'start',
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \app\common\behavior\WebLog @module_init [ RunTime:0.005001s ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]A non well formed numeric value encountered[D:\wamp64\www\9d_admin\vendor\workerman\workerman-for-win\Connection\TcpConnection.php:469]
+
+---------------------------------------------------------------

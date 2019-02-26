@@ -1,0 +1,35 @@
+{extend name="template/base" /}
+{block name="content"}
+	 <table class="table table-border table-bordered table-hover table-bg mt-20">
+	    <caption>我是不会溢出的表格</caption>
+	    <thead>
+	    <tr>
+	        <th width="50">编号</th>
+	        <th width="100">用户名</th>
+	        <th width="100">类型</th>
+	        <th width="100">第三方关联标识</th>
+	        <th width="100">创建时间</th>
+	        <th width="100">账号状态</th>
+	        <th width="100">手机号</th>
+	        <th width="200">备注</th>
+	        <th width="200">操作</th>
+	    </tr>
+	    </thead>
+	    <tbody>
+	{volist name='list' id='vo'}
+		<tr class="text-c">
+			<th>{$vo.id}</th>		
+			<th>{$vo.username}</th>		
+			<th>暂无</th>		
+			<th>暂无</th>		
+			<th>{$vo.ctime}</th>		
+			<th>{$vo.status}</th>		
+			<th>暂无</th>		
+			<th>暂无</th>		
+			<th>暂无</th>		
+		</tr>
+	{/volist}
+	    </tbody>
+	</table>
+    <div class="page-bootstrap">{$page}</div>
+{/block}
